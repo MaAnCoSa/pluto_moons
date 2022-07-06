@@ -1,8 +1,11 @@
 # pluto_moons
 
 **Manuel Andrés Cota Santeliz**
+
 **Luis Andrés González de la Rosa**
+
 **John Alexander Arredondo Garcia**
+
 
 ***ENGLISH***
 
